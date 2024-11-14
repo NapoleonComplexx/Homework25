@@ -1,0 +1,39 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "b0986aab-7378-4783-b70f-754391f37f86",
+   "metadata": {},
+   "source": [
+    "1) Github is a place for users to share code/programs in an open source format for others to access\n",
+    "and use a their own leisure.\n",
+    "2) Version control is when you manage and keep track of the different versions and updates you make to your code.\n",
+    "This let's you refer back to what changes you made in the code, so when you encounter an error, you can check to\n",
+    "see what modifications have been made. Or if someone else gets the code, they can see what changes have been made.\n",
+    "3) Github would allow everyone to upload and make changes to the same kind of code and give a consistent place for\n",
+    "everyone to go retrieve it when needed. It makes it very easy for everyone to have access to the same code."
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
